@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @20kb1a0505
+- 👋 Hi, I’m @srividya
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on startups
